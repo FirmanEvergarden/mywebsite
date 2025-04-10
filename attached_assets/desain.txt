@@ -1,0 +1,45 @@
+Keterangan Script Bot WhatsApp Topup Otomatis
+
+Bot WhatsApp ini dirancang untuk mempermudah proses transaksi pembelian produk digital secara otomatis melalui server Digiflazz. Cocok untuk kamu yang ingin menjalankan bisnis pulsa atau produk digital dengan sistem yang cepat, praktis, dan tanpa ribet.
+
+
+---
+
+Apa itu Digiflazz?
+Digiflazz adalah platform yang menjembatani antara pembeli dan penjual produk digital, seperti pulsa, paket data, token listrik, dan lainnya. Di sini, penjual (pemilik server atau website pulsa) bisa menawarkan produk mereka, dan pembeli bisa memilih sesuai kebutuhan.
+Singkatnya, ketika bot WhatsApp dihubungkan dengan Digiflazz, semua transaksi bisa dilakukan langsung melalui chat WhatsApp — mudah dan efisien.
+
+
+---
+
+Harga Produk & Stok Server
+Harga dan ketersediaan produk ditentukan langsung oleh masing-masing seller. Maka dari itu, kamu mungkin menemukan perbedaan harga untuk produk yang sama.
+Kamu bisa bebas memilih seller yang sesuai dengan kebutuhan: apakah yang paling murah, yang stoknya paling stabil, atau yang pelayanannya paling cepat — semuanya bisa kamu sesuaikan dengan preferensimu.
+
+
+---
+
+Keuntungan Menggunakan Bot WhatsApp
+Dengan Bot WhatsApp, kamu bisa menghasilkan keuntungan otomatis dari setiap transaksi yang dilakukan oleh pengguna. Kamu bebas mengatur margin keuntungan sendiri, misalnya 1%, 2%, 3%, dan seterusnya.
+Setiap kali ada transaksi sukses, keuntungannya langsung masuk ke saldomu. Semakin banyak transaksi, semakin besar keuntungan yang kamu kumpulkan — tanpa perlu repot!
+
+
+---
+
+Cara Kerja Transaksi di Bot
+Sistem transaksi melalui bot ini sangat simpel dan otomatis. Misalnya, ketika ada pengguna mengirim pesan “order pulsa 0857000000”, bot akan langsung merespons dan menampilkan dua opsi pembayaran: melalui QRIS atau Saldo Bot.
+
+Pembayaran via QRIS: Transaksi diproses otomatis begitu pembayaran terdeteksi.
+
+Pembayaran via Saldo Bot: Pengguna cukup deposit saldo terlebih dahulu, dan saldo akan masuk otomatis tanpa perlu konfirmasi admin.
+
+
+Dengan sistem ini, pengguna bisa bertransaksi kapan saja, tanpa perlu menunggu admin — lebih cepat, praktis, dan efisien.
+
+
+---
+
+Jika ada hal yang belum jelas, silakan hubungi admin untuk bantuan lebih lanjut.
+Harga Script Bot ini hanya
+ → Rp 149.000 saja
+Dan kamu juga akan mendapatkan bimbingan permanen untuk merawat dan mengelola bot agar tetap optimal dalam jangka panjang.

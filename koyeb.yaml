@@ -1,0 +1,24 @@
+name: mannshop
+type: web
+regions: fra
+ports:
+  - port: 5000
+    protocol: http
+env:
+  - name: NODE_ENV
+    value: production
+  - name: PORT
+    value: 5000
+routes:
+  - path: /*
+    port: 5000
+instance_types:
+  - name: Free
+health_checks:
+  - type: http
+    port: 5000
+    path: /
+    timeout: 5s
+    interval: 10s
+    grace_period: 30s
+    protocol: http
